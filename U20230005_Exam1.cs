@@ -48,10 +48,15 @@ class Program
 
         // Mostrar resultados.
         Console.WriteLine("************************Imprimiendo Datos**********************");
-        Console.WriteLine("Variables tipo texto: " + colonia + ", " + colorCasa);
+        Console.WriteLine("Impresion de Variable tipo texto: " + "mi departamento es: " + departamento);
+        Console.WriteLine("Impresion de Variable de tipo texto: " + " mi municipio es: " +  municipio);
+        Console.WriteLine("Impresion de Variable de tipo texto: " + "mi sciudad sellama: " + ciudad);
+        Console.WriteLine("Impresion de Variable de tipo texto: " + "mi colonia sellama: "  + colonia);
+        Console.WriteLine("Impresion de Variable de tipo texto: " + "Casa " + colorCasa);
+        Console.WriteLine("Impresion de variable tipo entero: " + añosResidencia + " años de residencia.");
+        Console.WriteLine("Impresion de variable tipo entero: " + edadActual + " años de edad.");
         Console.WriteLine("Comparación de cadenas: " + comparacion + " " + ciudad + ", " + municipio);
-        Console.WriteLine("Impresion de variables tipo entero: " + añosResidencia + " años de residencia");
-        Console.WriteLine("Impresion de variable tipo entero: " + edadActual + " años de edad");
+       
         Console.WriteLine("Texto concatenado: " + textoConcatenado);
         Console.WriteLine("Funcion texto a mayúscula: " + mayusculaColonia);
         Console.WriteLine("Funcoion minuscula: " + minusculaColonia);
