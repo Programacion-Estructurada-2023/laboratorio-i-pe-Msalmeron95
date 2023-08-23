@@ -40,7 +40,7 @@ class Program
         string? cadenaLimpia = colorCasa.Trim();
         int longitudColonia = colonia.Length;
         int longitudColorCasa = colorCasa.Length;
-        
+
         DateTime fecha_Actual = fechaActual.AddDays(14);
         DateTime fecha_especifica = fechaNacimiento.AddDays(14);
         bool mayorDate = fecha_Actual > fecha_especifica;
@@ -65,5 +65,8 @@ class Program
 
         // Esperar a que el usuario presione una tecla para salir.
         Console.ReadKey();
+
+
+        // Autoevaluacion 8.
     }
 }
