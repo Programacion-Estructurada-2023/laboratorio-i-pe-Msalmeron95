@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj": {}
+    "c:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj": {
+    "c:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj",
+        "projectUniqueName": "c:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj",
         "projectName": "laboratorio-i-pe-Msalmeron95",
-        "projectPath": "C:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj",
+        "projectPath": "c:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj",
         "packagesPath": "C:\\Users\\Briya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\obj\\",
+        "outputPath": "c:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Briya\\AppData\\Roaming\\NuGet\\NuGet.Config"

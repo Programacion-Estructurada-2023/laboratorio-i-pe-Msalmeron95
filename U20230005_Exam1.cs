@@ -16,26 +16,35 @@ class Program
         string? ciudad = Console.ReadLine();
 
         // Declarar y asignar valores a variables de texto.
+        //Declarar dos variables de texto, asignando su valor desde la declaración. 
         string? colonia = "Santa Maria";
-        string? colorCasa = "Rojo";
+        string? colorCasa = "Azul";
 
         // Declarar y asignar valores a variables enteras desde consola.
-        int añosResidencia = 8;
-        int edadActual = 28;
+        Console.WriteLine("Ingresar los años que ha vivido en la direccion actual: ");
+        string? añosResidencia = Console.ReadLine();
+
+        Console.WriteLine("Ingresar su edad: ");
+        string? edadActual = Console.ReadLine();
 
         // Declarar y asignar valores a variables DateTime.
         DateTime fechaNacimiento = new DateTime(1995, 04, 01); 
         DateTime fechaActual = DateTime.Now;
 
         // PARTE II: Realizar el proceso de asignación de funciones.
-        // Aplicar funciones a variables de tipo texto.
-        bool comparacion = ciudad == municipio;
+        // Aplicar funciones a variables de tipo str, bool, y int.
+        bool comparacion = ciudad == municipio; 
         string? textoConcatenado = departamento + " - " + municipio + " - " + ciudad;
         string? mayusculaColonia = colonia.ToUpper();
         string? minusculaColonia = colonia.ToLower();
         string? cadenaLimpia = colorCasa.Trim();
         int longitudColonia = colonia.Length;
         int longitudColorCasa = colorCasa.Length;
+        
+        DateTime fecha_Actual = fechaActual.AddDays(14);
+        DateTime fecha_especifica = fechaNacimiento.AddDays(14);
+        bool mayorDate = fecha_Actual > fecha_especifica;
+        bool menorDate = fecha_Actual < fecha_especifica;
 
         // Mostrar resultados.
         Console.WriteLine("************************Imprimiendo Datos**********************");
@@ -47,9 +56,10 @@ class Program
         Console.WriteLine("Funcion texto a mayúscula: " + mayusculaColonia);
         Console.WriteLine("Funcoion minuscula: " + minusculaColonia);
         Console.WriteLine("Funcion Cadena limpia: " + cadenaLimpia);
+        Console.WriteLine("Imprimiendo fechas actuales y especificas: " + fechaActual + ", " + fechaNacimiento);
         Console.WriteLine("Longitud de la Colonia: " + longitudColonia);
-        Console.WriteLine("Variable tipo date para DOB: " + fechaNacimiento);
-        Console.WriteLine("Variable tipo date: " + fechaActual);
+        Console.WriteLine("Variable tipo date para DOB mas 2 semanas: " + fecha_especifica);
+        Console.WriteLine("Variable tipo date mas 2 semanas " + fecha_Actual);
         Console.WriteLine("Longitud del Color de Casa: " + longitudColorCasa);
         Console.WriteLine("************************Imprimiendo Datos**********************");
 
