@@ -1,0 +1,15 @@
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\bin\Debug\net7.0\laboratorio-i-pe-Msalmeron95.exe
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\bin\Debug\net7.0\laboratorio-i-pe-Msalmeron95.deps.json
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\bin\Debug\net7.0\laboratorio-i-pe-Msalmeron95.runtimeconfig.json
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\bin\Debug\net7.0\laboratorio-i-pe-Msalmeron95.dll
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\bin\Debug\net7.0\laboratorio-i-pe-Msalmeron95.pdb
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.csproj.AssemblyReference.cache
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.AssemblyInfoInputs.cache
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.AssemblyInfo.cs
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.csproj.CoreCompileInputs.cache
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.dll
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\refint\laboratorio-i-pe-Msalmeron95.dll
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.pdb
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.genruntimeconfig.cache
+C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\ref\laboratorio-i-pe-Msalmeron95.dll
