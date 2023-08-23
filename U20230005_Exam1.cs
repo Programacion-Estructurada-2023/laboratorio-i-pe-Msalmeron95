@@ -50,7 +50,7 @@ class Program
         Console.WriteLine("************************Imprimiendo Datos**********************");
         Console.WriteLine("Impresion de Variable tipo texto: " + "mi departamento es: " + departamento);
         Console.WriteLine("Impresion de Variable de tipo texto: " + " mi municipio es: " +  municipio);
-        Console.WriteLine("Impresion de Variable de tipo texto: " + "mi sciudad sellama: " + ciudad);
+        Console.WriteLine("Impresion de Variable de tipo texto: " + "mi ciudad sellama: " + ciudad);
         Console.WriteLine("Impresion de Variable de tipo texto: " + "mi colonia sellama: "  + colonia);
         Console.WriteLine("Impresion de Variable de tipo texto: " + "Casa " + colorCasa);
         Console.WriteLine("Impresion de variable tipo entero: " + añosResidencia + " años de residencia.");
@@ -63,7 +63,7 @@ class Program
         Console.WriteLine("Imprimiendo fechas actuales y especificas: " + fechaActual + ", " + fechaNacimiento);
         Console.WriteLine("Longitud de la Colonia: " + longitudColonia);
         Console.WriteLine("Variable tipo date para DOB mas 2 semanas: " + fecha_especifica);
-        Console.WriteLine("Variable tipo date mas 2 semanas " + fecha_Actual);
+        Console.WriteLine("Variable tipo date mas 2 semanas: " + fecha_Actual);
         Console.WriteLine("Longitud del Color de Casa: " + longitudColorCasa);
         Console.WriteLine("************************Imprimiendo Datos**********************");
 

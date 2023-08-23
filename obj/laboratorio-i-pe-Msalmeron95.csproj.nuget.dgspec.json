@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj": {}
+    "C:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj": {
+    "C:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj",
+        "projectUniqueName": "C:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj",
         "projectName": "laboratorio-i-pe-Msalmeron95",
-        "projectPath": "c:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj",
+        "projectPath": "C:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj",
         "packagesPath": "C:\\Users\\Msalmeron\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\obj\\",
+        "outputPath": "C:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
