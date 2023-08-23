@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj": {}
+    "c:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj": {
+    "c:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj",
+        "projectUniqueName": "c:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj",
         "projectName": "laboratorio-i-pe-Msalmeron95",
-        "projectPath": "c:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj",
-        "packagesPath": "C:\\Users\\Msalmeron\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\obj\\",
+        "projectPath": "c:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\laboratorio-i-pe-Msalmeron95.csproj",
+        "packagesPath": "C:\\Users\\Briya\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Briya\\github-classroom\\Programacion-Estructurada-2023\\laboratorio-i-pe-Msalmeron95\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Msalmeron\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Briya\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

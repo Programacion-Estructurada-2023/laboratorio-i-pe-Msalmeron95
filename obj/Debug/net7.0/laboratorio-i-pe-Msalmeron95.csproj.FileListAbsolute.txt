@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\bin\Debug\net7.0\laboratorio-i-pe-Msalmeron95.exe
 C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\bin\Debug\net7.0\laboratorio-i-pe-Msalmeron95.deps.json
 C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\bin\Debug\net7.0\laboratorio-i-pe-Msalmeron95.runtimeconfig.json
@@ -13,3 +14,19 @@ C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i
 C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.pdb
 C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.genruntimeconfig.cache
 C:\Users\Msalmeron\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\ref\laboratorio-i-pe-Msalmeron95.dll
+=======
+C:\Users\Briya\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\bin\Debug\net7.0\laboratorio-i-pe-Msalmeron95.exe
+C:\Users\Briya\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\bin\Debug\net7.0\laboratorio-i-pe-Msalmeron95.deps.json
+C:\Users\Briya\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\bin\Debug\net7.0\laboratorio-i-pe-Msalmeron95.runtimeconfig.json
+C:\Users\Briya\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\bin\Debug\net7.0\laboratorio-i-pe-Msalmeron95.dll
+C:\Users\Briya\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\bin\Debug\net7.0\laboratorio-i-pe-Msalmeron95.pdb
+C:\Users\Briya\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Briya\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.AssemblyInfoInputs.cache
+C:\Users\Briya\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.AssemblyInfo.cs
+C:\Users\Briya\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.csproj.CoreCompileInputs.cache
+C:\Users\Briya\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.dll
+C:\Users\Briya\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\refint\laboratorio-i-pe-Msalmeron95.dll
+C:\Users\Briya\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.pdb
+C:\Users\Briya\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\laboratorio-i-pe-Msalmeron95.genruntimeconfig.cache
+C:\Users\Briya\github-classroom\Programacion-Estructurada-2023\laboratorio-i-pe-Msalmeron95\obj\Debug\net7.0\ref\laboratorio-i-pe-Msalmeron95.dll
+>>>>>>> 16e4347cf08bcba080788c47abf0b3acfee67e53
