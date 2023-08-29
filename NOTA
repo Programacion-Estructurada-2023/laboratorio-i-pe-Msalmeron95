@@ -1,0 +1,8 @@
+Nombramiento de variables correcto.
+
+Falto en impresion las variables de bool mayorDate = fecha_Actual > fecha_especifica;
+bool menorDate = fecha_Actual < fecha_especifica;
+
+Estetica en impresion
+
+NOTA 8.5 
